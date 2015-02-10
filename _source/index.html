@@ -1,37 +1,25 @@
 ---
 layout: default
-title: Welcome!
 ---
-
 <h1>this is the default index page!</h1>
 
 <!-- breaks, because we don't have any CSS yet -->
 <br>
 
-<p>To get started, see the readme.md file. View the source for this page to see how to split up the grid and position elements, or view <a href="http://foundation.zurb.com/docs/grid.php">the foundation documents</a></p>.
+<p>To get started, see the readme.md file. View the source for this page to see how to split up the grid and position elements, or view <a href="http://foundation.zurb.com/docs/grid.php">the foundation documents</a>.</p>
+    {% for post in site.posts %}
+    <div class="row">
+      <div class="large-9 small-11 columns large-centered small-centered">
+        <h2><span class="post-meta">Feb 6, 2015</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+          <div>{{post.content}}</div>
+      </div>
 
-<!-- more ugly breaks -->
-<br>
-<br>
+    </div>
+    {% endfor %}
+  <!-- end row -->
 
-<!-- a new row in our 12-column grid -->
-<div class="row"> 
-
-<!-- one third -->
-<div class="four columns">
-	<p>Some Stuff</p>
 </div>
 
-<!-- one third -->
-<div class="four columns">
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat obcaecati eaque soluta rerum tempora molestias neque asperiores sit nulla error accusantium eveniet quia omnis impedit enim aspernatur sint ad earum.</p>
-</div>
-
-<!-- one third -->
-<div class="four columns">
-	<p>Even More Important Stuff</p>
-</div>
-
-
-<!-- end row -->
-</div>
+	
