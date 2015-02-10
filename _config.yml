@@ -2,6 +2,5 @@ title:       Web Development Rants, Raves, Tips n' Tricks
 author:      Rob Martin
 linkedin:    http://www.linkedin.com/in/robmartinid8
 github:      datadude
-source:      ./_source
 destination: ./_site
 highlighter: rouge
