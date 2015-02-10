@@ -3,5 +3,5 @@ author:      Rob Martin
 linkedin:    http://www.linkedin.com/in/robmartinid8
 github:      datadude
 source:      ./_source
-destination: ./
+destination: ./_site
 highlighter: rouge

@@ -1,4 +1,5 @@
+source 'https://rubygems.org'
 gem "zurb-foundation"
 gem "compass"
-gem "jekyll"
+gem "github-pages"
 gem "rouge"
