@@ -9,7 +9,7 @@ layout: default
     {% for post in site.posts %}
     <div class="row">
       <div class="large-9 small-11 columns large-centered small-centered">
-        <h2><span class="post-meta">Feb 6, 2015</span>
+        <h2><span class="post-meta">{{post.date}}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
           <div>{{post.content}}</div>
