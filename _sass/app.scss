@@ -7,10 +7,23 @@
 // Comment out this import if you are customizing you imports below
 @import "foundation";
 
-
 //syntax highlighting
 @import "syntax-highlighting";
 
+
+//overrides
+
+.post p {margin-top: 1.25em; margin-bottom: inherit}
+.post ul,ol {margin-left: 1.75em;}
+
+//.post-next {margin-left: 2.0em}
+//.post-previous {margin-right: 2.0em}
+
+.post-nav-bottom {margin-top: 2.0em; margin-bottom: 2.0em;}
+
+.post-date {margin-bottom: 1.0em; font-weight: bold}
+#wrapper {margin-top: 1.5em;}
+.author-links{margin-top: 2.0em; margin-bottom: 2.0em;}
 //@import "rouge"
 // Import specific parts of Foundation by commenting the import "foundation"
 // and uncommenting what you want below. You must uncomment the following if customizing

@@ -1,0 +1,8 @@
+---
+layout: default
+title: Devops Articles
+---
+<h2>{{page.title}}</h2>
+{% for post in site.categories.devops reversed %}
+    {% include blog_post_row.html %}
+{% endfor %}

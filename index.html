@@ -1,24 +1,13 @@
 ---
 layout: default
 ---
-<h1>Hello World!</h1>
-<!-- breaks, because we don't have any CSS yet -->
-<br>
 
-<p>To get started, see the readme.md file. View the source for this page to see how to split up the grid and position elements, or view <a href="http://foundation.zurb.com/docs/grid.php">the foundation documents</a>.</p>
-    {% for post in site.posts %}
-    <div class="row">
-      <div class="large-9 small-11 columns large-centered small-centered">
-        <h2><span class="post-meta">{{post.date}}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-          <div>{{post.content}}</div>
-      </div>
-
-    </div>
+<p>This site is where I get to document both for myself and anyone interested a few hints and tricks or even whole
+    systems that I have worked with or would like to work with.  Hopefully you will find some of these posts useful.</p>
+    {% for post in paginator.posts %}
+      {% include blog_post_row.html %}
     {% endfor %}
   <!-- end row -->
-
 </div>
 
 	
