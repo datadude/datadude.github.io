@@ -4,7 +4,7 @@ layout: default
 
 <p>This site is where I get to document both for myself and anyone interested a few hints and tricks or even whole
     systems that I have worked with or would like to work with.  Hopefully you will find some of these posts useful.</p>
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       {% include blog_post_row.html %}
     {% endfor %}
   <!-- end row -->
