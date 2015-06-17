@@ -1,5 +1,17 @@
-<div class="post-nav-bottom">
+
 <div class="row text-center">
-    <div class="small-12 large-3 columns post-previous ">{% if page.previous %} &laquo;<a href="{{page.previous.url}}">{{page.previous.title}}</a>{% endif %}</div> <div class="small-12 large-6 columns reference_links"> || &nbsp;<a href="{{ site.linkedin }}">Linked in: {{ site.author }}</a>  | <a href="http://github.com/{{ site.github }}">Github: {{ site.github }}</a> || </div> <div class="small-12 large-3 columns post-next">{% if page.next %}<a href="{{page.next.url}}">{{page.next.title}}</a>&raquo;{% endif %}</div>
-</div>
+    <ul class="stack radius button-group">
+        {% if page.previous %}
+        <li><a href="{{page.previous.url}}" class="button">{{page.previous.title}}</a></li>
+        {% else %}
+        <li><a class="button disabled">Begining</a></li>
+        {% endif %}
+        <li><a href="{{ site.linkedin }}" class="button">Linked in: {{ site.author }}</a></li>
+        <li><a href="http://github.com/{{ site.github }}" class="button">Github: {{ site.github }}</a></li>
+        {% if page.next %}
+        <li><a href="{{page.next.url}}" class="button">{{page.next.title}}</a></li>
+        {% else %}
+        <li><a class="button disabled">The End</a></li>
+        {% endif %}
+    </ul>
 </div>

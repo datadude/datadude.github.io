@@ -5,13 +5,14 @@ date:   2015-03-11 13:00
 categories: Rave Hacksc
 ---
 
-## What is Jekyll?
-[Jekyll](http://jekyllrb.com/) is a simple "Blog Aware" static site generator.
+[Jekyll](http://jekyllrb.com/) is a simple "Blog Aware" static site generator.  You can quicky and easily write
+blog posts using the [MarkDown](https://help.github.com/articles/markdown-basics/) language and [Liquid](http://liquidmarkup.org/)
+templates.  See how!
 
 ### Advantages:
 
  * Site is completely static, so it gets served up FAST!
- * It still gives you poserfull CMS features such as re-usable code bits.
+ * It still gives you powerfull CMS features such as re-usable code bits.
  * It still lets you use custom Javascript and CSS (this blog uses foundation for instance).
  * No Database needed!
  * Write your posts using [MarkDown](https://help.github.com/articles/markdown-basics/)
