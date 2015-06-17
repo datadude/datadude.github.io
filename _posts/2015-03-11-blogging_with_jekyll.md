@@ -114,7 +114,7 @@ Code highlighting is easy too:
 ## Host with Github pages
 
 [Hosting on Github Pages](http://jekyllrb.com/docs/github-pages/) is free and easy.
-All you need to do is create a specially named repo (<github userid>.github.io) in you github account and push it to
+All you need to do is create a specially named repo (&lt;github userid&gt;.github.io) in your github account and push it to
 github.
 
 ### Learn by example!
