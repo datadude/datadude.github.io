@@ -2,7 +2,7 @@
 layout: post
 title:  "Blogging with Jekyll"
 date:   2015-03-11 13:00
-categories: Rave Hacksc
+categories: Raves
 ---
 
 [Jekyll](http://jekyllrb.com/) is a simple "Blog Aware" static site generator.  You can quicky and easily write
