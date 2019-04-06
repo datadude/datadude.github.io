@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f48647f5-a8cd-4853-8acf-f103d74f4cab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/suiteworld19/PBCS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/suiteworld19/financials.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/suiteworld19/hackathon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/suiteworld19/supply_chain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/suiteworld19/warehouse.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" afterDir="false" />
     </list>
@@ -41,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="270">
-                <caret line="114" column="68" selection-start-line="114" selection-start-column="68" selection-end-line="114" selection-end-column="68" />
+              <first_editor relative-caret-position="281">
+                <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
               </first_editor>
               <second_editor />
             </state>
@@ -110,7 +105,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1065" />
+    <option name="x" value="-1066" />
     <option name="y" value="42" />
     <option name="width" value="1052" />
     <option name="height" value="722" />
@@ -259,18 +254,18 @@
       <option name="presentableId" value="Default" />
       <updated>1423350016565</updated>
       <workItem from="1554425121556" duration="7453000" />
-      <workItem from="1554502738885" duration="9442000" />
+      <workItem from="1554502738885" duration="9630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16895000" />
+    <option name="totallyTimeSpent" value="17083000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1065" y="42" width="1052" height="722" extended-state="0" />
+    <frame x="-1066" y="42" width="1052" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2970297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2970297" />
       <window_info id="Structure" order="1" weight="0.24949084" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,7 +276,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
@@ -361,8 +356,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="270">
-            <caret line="114" column="68" selection-start-line="114" selection-start-column="68" selection-end-line="114" selection-end-column="68" />
+          <first_editor relative-caret-position="281">
+            <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
           </first_editor>
           <second_editor />
         </state>
