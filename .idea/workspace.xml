@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f48647f5-a8cd-4853-8acf-f103d74f4cab" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-21-Setting-Up-a-Chef-Server.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-02-21-Setting-Up-a-Chef-Server.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-23-Bootstrap_a_Chef_server.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-02-23-Bootstrap_a_Chef_server.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-12-2-Config-Management.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-02-12-2-Config-Management.md" afterDir="false" />
     </list>
     <ignored path="datadude.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,11 +50,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-02-12-2-Config-Management.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="223">
+                <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -72,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="76">
+              <first_editor relative-caret-position="105">
                 <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               </first_editor>
               <second_editor />
@@ -139,6 +139,7 @@
         <option value="$PROJECT_DIR$/_posts/2015-02-21-Setting-Up-a-Chef-Server.md" />
         <option value="$PROJECT_DIR$/_posts/2015-02-23-Bootstrap_a_Chef_server.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-02-12-2-Config-Management.md" />
       </list>
     </option>
   </component>
@@ -277,12 +278,12 @@
       <option name="presentableId" value="Default" />
       <updated>1423350016565</updated>
       <workItem from="1554425121556" duration="7453000" />
-      <workItem from="1554502738885" duration="13661000" />
+      <workItem from="1554502738885" duration="13717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21114000" />
+    <option name="totallyTimeSpent" value="21170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1066" y="42" width="1052" height="722" extended-state="0" />
@@ -413,14 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-02-12-2-Config-Management.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-21-Setting-Up-a-Chef-Server.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -452,8 +445,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="76">
+          <first_editor relative-caret-position="105">
             <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-02-12-2-Config-Management.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="223">
+            <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
