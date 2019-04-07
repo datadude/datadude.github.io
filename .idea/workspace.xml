@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f48647f5-a8cd-4853-8acf-f103d74f4cab" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" afterDir="false" />
     </list>
     <ignored path="datadude.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,19 +68,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <first_editor relative-caret-position="124">
+                <caret line="140" column="97" selection-start-line="140" selection-start-column="97" selection-end-line="140" selection-end-column="97" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -98,12 +99,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/humans.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/orbit.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -137,9 +142,9 @@
         <option value="$PROJECT_DIR$/netsuite.html" />
         <option value="$PROJECT_DIR$/_posts/2015-02-21-Setting-Up-a-Chef-Server.md" />
         <option value="$PROJECT_DIR$/_posts/2015-02-23-Bootstrap_a_Chef_server.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" />
         <option value="$PROJECT_DIR$/_posts/2015-02-12-2-Config-Management.md" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" />
       </list>
     </option>
   </component>
@@ -278,18 +283,18 @@
       <option name="presentableId" value="Default" />
       <updated>1423350016565</updated>
       <workItem from="1554425121556" duration="7453000" />
-      <workItem from="1554502738885" duration="13975000" />
+      <workItem from="1554502738885" duration="15000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21428000" />
+    <option name="totallyTimeSpent" value="22453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1066" y="42" width="1052" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2970297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2970297" />
       <window_info id="Structure" order="1" weight="0.24949084" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -300,7 +305,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
@@ -380,9 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/humans.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -428,16 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-12-2-Config-Management.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -451,6 +443,13 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/netsuite.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -458,10 +457,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+    <entry file="file://$PROJECT_DIR$/humans.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="124">
+            <caret line="140" column="97" selection-start-line="140" selection-start-column="97" selection-end-line="140" selection-end-column="97" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
