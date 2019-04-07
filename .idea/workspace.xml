@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f48647f5-a8cd-4853-8acf-f103d74f4cab" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md" afterDir="false" />
     </list>
     <ignored path="datadude.iws" />
@@ -72,8 +71,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="124">
-                <caret line="140" column="97" selection-start-line="140" selection-start-column="97" selection-end-line="140" selection-end-column="97" />
+              <first_editor relative-caret-position="68">
+                <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -283,12 +282,12 @@
       <option name="presentableId" value="Default" />
       <updated>1423350016565</updated>
       <workItem from="1554425121556" duration="7453000" />
-      <workItem from="1554502738885" duration="15000000" />
+      <workItem from="1554502738885" duration="15117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22453000" />
+    <option name="totallyTimeSpent" value="22570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1066" y="42" width="1052" height="722" extended-state="0" />
@@ -467,8 +466,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-1-SuiteWorld_19.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="124">
-            <caret line="140" column="97" selection-start-line="140" selection-start-column="97" selection-end-line="140" selection-end-column="97" />
+          <first_editor relative-caret-position="68">
+            <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
