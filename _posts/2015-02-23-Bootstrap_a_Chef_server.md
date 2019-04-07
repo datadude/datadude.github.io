@@ -2,7 +2,7 @@
 layout: post
 title:  "Launching and Bootstrapping a server on EC2"
 date:   2015-02-24 13:00
-categories: Chef Devops
+categories: chef devops
 ---
 
 In the [previous post]({{page.previous.url}}) we setup a chef server and set up our workstation to control that server and EC2 instances on

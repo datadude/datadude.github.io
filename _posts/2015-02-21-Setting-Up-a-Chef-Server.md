@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting up a Chef Server 12"
 date:   2015-02-24 12:00
-categories: Chef Devops
+categories: chef devops
 ---
 
 
